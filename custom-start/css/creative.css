@@ -365,8 +365,26 @@ header.masthead .header-content .header-content-inner p {
 }
 .col-height-3 {
 	height: 25vh;
+	justify-content: center;
+	align-items: center;
 	text-align: center;
 	padding: 0px 0px 0px 0px !important;
+	-webkit-filter: blur(5px);
+	filter: blur(5px);
+	transition: filter 125ms ease-in, -webkit-filter 125ms ease-in;
+}
+.col-height-3:hover {
+	-webkit-filter: none;
+	filter: none;
+	transition: filter 125ms ease-out, -webkit-filter 125ms ease-out;
+}
+.col-height-3 a {
+	opacity: 1;
+	filter: none;
+	-webkit-filter: none;
+}
+.col-height-3:hover > a {
+	opacity: 0;
 }
 img {
 	margin: 0 auto;
