@@ -1,0 +1,8 @@
+farvekoder:
+	#fff600 //Lemon-yellow
+	#f9f9f9 //Black-ish Top-bar color
+	#333333 //Black-ish Comments color
+	#f7f7f7 //White-ish background color
+	
+font-family:
+	"Open Sans"

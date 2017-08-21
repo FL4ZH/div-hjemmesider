@@ -1,0 +1,53 @@
+body {
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	background-color: #fff600;
+}
+.img-top-left {
+	top: 0;
+	left: 0;
+	width: 20%;
+	position: absolute;
+}
+.top-news {
+	margin-left: 20%;
+}
+.menu-container {
+	width: 25%;
+	height: 70%;
+	min-height: 575px;
+	max-height: 600px;
+	display: block;
+	float:left;
+	background-color: #fff600;
+	border: black solid 1px;
+}
+.galleri-container {
+	width: 50%;
+	height: 70%;
+	min-height: 575px;
+	max-height: 600px;
+	background-color: #fff600;
+	display: block;
+	float:left;
+	z-index: 1;
+	color: black;
+	border: black solid 1px;
+}
+.black-background {
+	background-color: rgba(51, 51, 51, 0.5);
+}
+.mySlides {
+	color: #fff600;
+}
+
+.skole-informationer {
+	height: 70%;
+	min-height: 575px;
+	max-height: 600px;
+	width: 25%;
+	float:left;
+	border: black solid 1px;
+}
+.galleri-container img {
+    vertical-align: middle;
+}
