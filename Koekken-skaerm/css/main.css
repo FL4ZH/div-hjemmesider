@@ -1,6 +1,6 @@
 body {
 	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-	background-color: #fff600;
+	background-color: #000000;
 }
 .img-top-left {
 	top: 0;
@@ -18,7 +18,7 @@ body {
 	max-height: 600px;
 	display: block;
 	float:left;
-	background-color: #fff600;
+	background-color: #000000;
 	border: black solid 1px;
 }
 .galleri-container {
@@ -26,11 +26,11 @@ body {
 	height: 70%;
 	min-height: 575px;
 	max-height: 600px;
-	background-color: #fff600;
+	background-color: #000000;
 	display: block;
 	float:left;
 	z-index: 1;
-	color: black;
+	color: yellow;
 	border: black solid 1px;
 }
 .black-background {
