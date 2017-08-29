@@ -39,7 +39,22 @@ body {
 .mySlides {
 	color: #fff600;
 }
-
+img {
+  max-width: 100%;
+  width: auto   9;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+.carousel img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+  max-width: none;
+}
 .skole-informationer {
 	height: 70%;
 	min-height: 575px;
