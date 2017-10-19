@@ -996,7 +996,7 @@
   "CREDITS_BALANCE_CREDITS": "Mønter & Diamanter",
   "CREDITS_CASHCARDCA_PRICES_NOTE": "C$10 price point is available in all retailers, while C$25 price point is available only in 7-Eleven stores.",
   "TX_HISTORY_DESCRIPTION_SMS_O2": "Buying {{$chocolatey->hotelName}} Credits via SMS",
-  "CREDITS_CAMPAIGN_BANNER_HABBOWEEN2012_TEXT": "Modtag 5 Græskar for hver 1 Mønt(er), du køber! Græskar er den eneste måde at få nogle af de seneste {{$ chocolatey-> hotelName}}ween kostumer og møbler!",
+  "CREDITS_CAMPAIGN_BANNER_HABBOWEEN2012_TEXT": "Modtag 5 Græskar for hver 1 Mønt(er), du køber! Græskar er den eneste måde at få nogle af de seneste {{$chocolatey->hotelName}}ween kostumer og møbler!",
   "COINS_CONFIRM_LISTING_PRICE_HEADER": "Pris (DKK)",
   "CREDITS_CASHCARDMY_PRICES_LIST": "<li><b>20</b> for <b>RM12</b></li>  <li><b>10</b> for <b>RM6</b></li>",
   "CREDITS_LOYALTY_POINTS_INFO": "Dine Point: {0}",
