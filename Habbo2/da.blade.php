@@ -628,7 +628,7 @@
   "SHOP_PAYMENTMETHOD_SMALLPRINT_COM_BOKU_HK": "Standard text message fee will also be charged depending on operator and mobile phone plan. You will be charged for this purchase on your next phone bill. If you are on a prepaid balance, the sum will be subtracted from your balance immediately. The quoted price is charged for each SMS that is requested.<BR/> <BR/>\n\nPlease stay within the <A HREF=\"https://help.habbo.com/entries/347508-What-are-the-spending-limits-on-Habbo-\" TARGET=\"_blank\">spending limits</A> listed on our Help pages. <BR/> <BR/>\n\nSMS payment service provided by Boku. If you need assistance with mobile purchases, please contact Boku customer service: <A HREF=\"mailto:support@boku.com\">support@boku.com</A>. <BR/> <BR/>",
   "EMAIL_REPORT_UNAUTHORIZED_TEXT": "Hvis du har modtaget en email fra os om en konto, du ikke har oprettet dig selv, kan du bede os om at tilføje din e-mail-adresse til en blokliste. Du modtager ikke yderligere e-mail fra os, når du gør dette, og adressen kan ikke bruges til at oprette en {{$chocolatey->hotelName}} karakter i fremtiden",
   "FACEBOOK_LOGIN": "Login med Facebook",
-  "HOME_NEWS_TAB": "Hvad er nyt",
+  "HOME_NEWS_TAB": "Nyheder",
   "PREPAID_ORDER_INSTRUCTION": "Find ud af <a href=\"/shop/prepaid\">hvordan du får en forudbetalt kode</a>!",
   "SHOP_PAYMENT_FAILED": "Betaling fejlede",
   "NEWS_NEWEST": "Seneste nyheder",
